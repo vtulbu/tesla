@@ -1,0 +1,99 @@
+{
+  "CyberTruck": {
+    "model": "Cyber Truck",
+    "description": "Better utility than a truck with more performance than a sports car",
+    "specifications": {
+      "acceleration": 3.4,
+      "distance": 351,
+      "typeOfEngine": "AWD"
+    },
+    "img": {
+      "source": "/img/CyberTruck.png",
+      "shadowProp": {
+        "x": "180deg",
+        "z": "-5deg",
+        "blur": "17px",
+        "bright": "120%",
+        "opacity": "17% "
+      }
+    }
+  },
+  "ModelS": {
+    "model": "Model S",
+    "description": "Electric vehicle, with a high-strength architecture and floor-mounted battery pack for incredible occupant protection and low rollover risk",
+    "specifications": {
+      "acceleration": 1.9,
+      "distance": 396,
+      "typeOfEngine": "",
+      "peakPower": "1020 hp"
+    },
+    "img": {
+      "source": "/img/ModelS.png",
+      "shadowProp": {
+        "x": "160deg",
+        "z": "-35deg",
+        "blur": "10px",
+        "bright": "120%",
+        "opacity": "9% "
+      }
+    }
+  },
+  "Model3": {
+    "model": "Model 3",
+    "description": "Electric-powered performance, with dual motor AWD, quick acceleration, long range and fast charging.",
+    "specifications": {
+      "acceleration": 3.1,
+      "distance": 358,
+      "typeOfEngine": "AWD"
+    },
+    "img": {
+      "source": "/img/Model3.png",
+      "shadowProp": {
+        "x": "180deg",
+        "z": "-12deg",
+        "blur": "17px",
+        "bright": "120%",
+        "opacity": "12% "
+      }
+    }
+  },
+  "ModelX": {
+    "model": "Model X",
+    "description": "Mid-size all-electric luxury crossover with seating for five, six or seven people",
+    "specifications": {
+      "acceleration": 2.5,
+      "distance": 333,
+      "typeOfEngine": "",
+      "peakPower": "1020 hp"
+    },
+    "img": {
+      "source": "/img/ModelX.png",
+      "shadowProp": {
+        "x": "180deg",
+        "z": "-7deg",
+        "blur": "17px",
+        "bright": "120%",
+        "opacity": "10% "
+      }
+    }
+  },
+  "ModelY": {
+    "model": "Model Y",
+    "description": "A fully electric, mid-size SUV, with seating for up to seven, dual motor AWD and unparalleled protection.",
+    "specifications": {
+      "acceleration": 2.8,
+      "distance": 330,
+      "typeOfEngine": "AWD"
+    },
+    "img": {
+      "source": "/img/ModelY.png",
+      "shadowProp": {
+        "x": "180deg",
+        "z": "-5deg",
+        "blur": "17px",
+        "bright": "120%",
+        "opacity": "12% "
+      }
+    }
+  }
+}
